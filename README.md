@@ -7,6 +7,23 @@
 1. core - The main part of our structure. <br>
 2. GANs - Generator and Discriminator Source Code. Here we provide multiple generator and discriminator architectures for selection. Through experimentation, we have identified the context_encoder as the optimal choice that best meets our requirements. <br>
 #### Inside core
+1. train.py - The part for training the sturcture. <br>
+2. infer.py - The part for testing our codes on data. <br>
+3. datasets.py - The part for dataset specifications. <br>
+4. discriminators - The part for backbone discriminator. <br>
+5. sides - The part for HOG Loss and Block Loss. <br>
+#### Inside GANs
+1. implementations - The source codes for GANs. Among GANs, context_encoder is the one we used in our work. <br>
+     Inside context_encoder: <br>
+   a) datasets.py - The part for dataset specifications in pretraining GANs. <br>
+   b) models.py - The source code of context_encoder. <br>
+   c) phase1_context_encoder.py - Code for phase 1 training in GANs. <br>
+   d) phase2-1_discriminator.py - Code for phase 2-1 training in GANs. <br>
+   e) phase2-2_discriminator.py - Code for phase 2-2 training in GANs. <br>
+   f) phase2extra_discriminator.py - This code evaluates whether the discriminator's judgment capability on the original dataset degrades after Phase 2-2. Experimental results confirm performance deterioration (Note: Not used for pretraining).
+   g) phase22datasets.py - Special designed code of datasets for phase 2-2 training in GANs. <br>
+   h) test_models - The part we used for testing if other GANs can perform better with the structure of context_encoder. The answer is NO. <br>
+3. model_weights - Pretrained weights used in our work.
 ## Get Access to Our Work
 Everything is available on Baidu Cloud for download as needed if you dont want to download from github:
 ### Dataset
@@ -41,3 +58,6 @@ Link: https://pan.baidu.com/s/1p0rG-6ywUiVlEMs-N2kMjQ?pwd=24f4 Password: 24f4 <b
 Link: https://pan.baidu.com/s/1_mlUZFSU0HzOvRQ9T_opYQ?pwd=8fax Password: 8fax <br>
 3. ReDO|Labels4Free<br>
 Link: https://pan.baidu.com/s/1ZHgLwRs-4fTQzH9BNIv6kQ?pwd=ft3y Password: ft3y <br>
+
+## Closing Remarks
+If you have any questions regarding the file download or the article, feel free to contact me at: 231020050@fzu.edu.cn or 506264025@qq.com
