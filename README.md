@@ -6,7 +6,13 @@ We used two datasets: the full BUSB collection and just the healthy images from 
 Link: https://pan.baidu.com/s/1Gvd6OGgKdiOHt_ghiPWyQQ?pwd=3gkq Password: 3gkq <br>
 ### Outputs
 All our experimental results - including architecture .pth files and output images - are available in the link below. Feel free to download them for direct use. <br>
-Link: https://pan.baidu.com/s/1Bdz2mhMUXoLD8lmaiiuDGw?pwd=wbiv Password: wbiv 
+Link: https://pan.baidu.com/s/1Bdz2mhMUXoLD8lmaiiuDGw?pwd=wbiv Password: wbiv <br>
+### Pure Codes
+This section contains the core model architecture source code, which excludes both datasets and output files. The content is similar to what we've uploaded on GitHub. <br>
+Link: https://pan.baidu.com/s/12ceTF7mUf9fFnL-W4qCD8w?pwd=2vv8 Password: 2vv8  <br>
+### Complete TIS
+This version contains the full dataset and all corresponding output files, pre-organized in their operational directory structure. By downloading this package, you can immediately execute our code without additional setup. <br>
+
 
 ### SOTAs experiments
 Here we provide the code used in the SOTA experiments from the paper, making it easy for anyone who needs to reproduce the results. All the code has been modified—just tweak a few local settings and you're good to go. The link below will auto-populate the access password. <br>
