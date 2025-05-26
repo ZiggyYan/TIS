@@ -3,6 +3,7 @@
 1. Dataset - The place you put your dataset. <br>
 2. code - The main code of our structure. <br>
 3. side - Some supportive external codes. <br>
+4. requirements.txt - example environment. <br>
 ### Inside code
 1. core - The main part of our structure. <br>
 2. GANs - Generator and Discriminator Source Code. Here we provide multiple generator and discriminator architectures for selection. Through experimentation, we have identified the context_encoder as the optimal choice that best meets our requirements. <br>
