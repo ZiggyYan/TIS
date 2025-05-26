@@ -1,10 +1,15 @@
 # TIS
+## Get Access to Our Work
+Everything is available on Baidu Cloud for download as needed if you dont want to download from github:
+### Dataset
+We used two datasets: the full BUSB collection and just the healthy images from BUSI. Download them using the link below and replace everything in your 'Dataset' folder. <br>
+Link: https://pan.baidu.com/s/1Gvd6OGgKdiOHt_ghiPWyQQ?pwd=3gkq Password: 3gkq <br>
+### Outputs
+All our experimental results - including architecture .pth files and output images - are available in the link below. Feel free to download them for direct use. <br>
+Link: https://pan.baidu.com/s/1Bdz2mhMUXoLD8lmaiiuDGw?pwd=wbiv Password: wbiv 
 
-
-
-
-## SOTAs experiments
-Here we provide the code used in the SOTA experiments from the paper, making it easy for anyone who needs to reproduce the results. All the code has been modified—just tweak a few local settings and you're good to go. The link below will auto-populate the access password. Everything is available on Baidu Cloud for download as needed: <br>
+### SOTAs experiments
+Here we provide the code used in the SOTA experiments from the paper, making it easy for anyone who needs to reproduce the results. All the code has been modified—just tweak a few local settings and you're good to go. The link below will auto-populate the access password. <br>
 ·Codes:<br>
 1. ReDO <br>
 Link: https://pan.baidu.com/s/1bF6jEWRuQTPewh8JfcdGOA?pwd=1xnp Password: 1xnp <br>
