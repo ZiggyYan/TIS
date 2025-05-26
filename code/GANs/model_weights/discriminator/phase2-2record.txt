@@ -1,0 +1,217 @@
+This is the record file for phase 2-2.
+Best performance is updated:
+Epoch0:0.4529079794883728
+Current Time:2025-04-01 09:39:05.932486
+Best performance is updated:
+Epoch1:0.40203171968460083
+Current Time:2025-04-01 09:39:07.808842
+Best performance is updated:
+Epoch2:0.3856494426727295
+Current Time:2025-04-01 09:39:09.709632
+Best performance is updated:
+Epoch3:0.3376827836036682
+Current Time:2025-04-01 09:39:11.600292
+Best performance is updated:
+Epoch5:0.2902373671531677
+Current Time:2025-04-01 09:39:15.475058
+Best performance is updated:
+Epoch7:0.26135197281837463
+Current Time:2025-04-01 09:39:19.330564
+Best performance is updated:
+Epoch8:0.2538008689880371
+Current Time:2025-04-01 09:39:21.273497
+Best performance is updated:
+Epoch9:0.19854608178138733
+Current Time:2025-04-01 09:39:23.326064
+Best performance is updated:
+Epoch14:0.16661085188388824
+Current Time:2025-04-01 09:39:32.928133
+Best performance is updated:
+Epoch17:0.15148043632507324
+Current Time:2025-04-01 09:39:38.809894
+Best performance is updated:
+Epoch19:0.14917972683906555
+Current Time:2025-04-01 09:39:42.595090
+Best performance is updated:
+Epoch21:0.14297792315483093
+Current Time:2025-04-01 09:39:46.401790
+Best performance is updated:
+Epoch22:0.12991662323474884
+Current Time:2025-04-01 09:39:48.293110
+Best performance is updated:
+Epoch23:0.1257767230272293
+Current Time:2025-04-01 09:39:50.200662
+Best performance is updated:
+Epoch26:0.10871487855911255
+Current Time:2025-04-01 09:39:55.891316
+Best performance is updated:
+Epoch30:0.10014098882675171
+Current Time:2025-04-01 09:40:03.398536
+Best performance is updated:
+Epoch31:0.0842663049697876
+Current Time:2025-04-01 09:40:05.325213
+Best performance is updated:
+Epoch37:0.06099270284175873
+Current Time:2025-04-01 09:40:16.597059
+Best performance is updated:
+Epoch58:0.05934060364961624
+Current Time:2025-04-01 09:40:56.554206
+Best performance is updated:
+Epoch67:0.04783827066421509
+Current Time:2025-04-01 09:41:13.616631
+Best performance is updated:
+Epoch77:0.04695078730583191
+Current Time:2025-04-01 09:41:32.708032
+Best performance is updated:
+Epoch78:0.0441707968711853
+Current Time:2025-04-01 09:41:34.611568
+Best performance is updated:
+Epoch84:0.03912493586540222
+Current Time:2025-04-01 09:41:46.045308
+Best performance is updated:
+Epoch85:0.036103829741477966
+Current Time:2025-04-01 09:41:47.929863
+Best performance is updated:
+Epoch135:0.036056552082300186
+Current Time:2025-04-01 09:43:23.153303
+Best performance is updated:
+Epoch136:0.03166716545820236
+Current Time:2025-04-01 09:43:25.106201
+Best performance is updated:
+Epoch140:0.02946922928094864
+Current Time:2025-04-01 09:43:32.720848
+Best performance is updated:
+Epoch152:0.028546089306473732
+Current Time:2025-04-01 09:43:55.485615
+Best performance is updated:
+Epoch163:0.02290210872888565
+Current Time:2025-04-01 09:44:16.613419
+Best performance is updated:
+Epoch184:0.020839504897594452
+Current Time:2025-04-01 09:44:56.515313
+Best performance is updated:
+Epoch200:0.020117677748203278
+Current Time:2025-04-01 09:45:26.985422
+Best performance is updated:
+Epoch209:0.018571294844150543
+Current Time:2025-04-01 09:45:44.104290
+Best performance is updated:
+Epoch221:0.015051804482936859
+Current Time:2025-04-01 09:46:06.861820
+Best performance is updated:
+Epoch223:0.013043994084000587
+Current Time:2025-04-01 09:46:10.695623
+Best performance is updated:
+Epoch273:0.011934980750083923
+Current Time:2025-04-01 09:47:46.107795
+Best performance is updated:
+Epoch308:0.01127992570400238
+Current Time:2025-04-01 09:48:52.894589
+Best performance is updated:
+Epoch309:0.008992232382297516
+Current Time:2025-04-01 09:48:54.808331
+Best performance is updated:
+Epoch420:0.008868391625583172
+Current Time:2025-04-01 09:52:18.593049
+Best performance is updated:
+Epoch430:0.008760878816246986
+Current Time:2025-04-01 09:52:35.545344
+Best performance is updated:
+Epoch451:0.00762172369286418
+Current Time:2025-04-01 09:53:11.570072
+Best performance is updated:
+Epoch455:0.007525602821260691
+Current Time:2025-04-01 09:53:18.506765
+Best performance is updated:
+Epoch465:0.006335701793432236
+Current Time:2025-04-01 09:53:35.698909
+Best performance is updated:
+Epoch490:0.006187826860696077
+Current Time:2025-04-01 09:54:19.017561
+Best performance is updated:
+Epoch575:0.005590612068772316
+Current Time:2025-04-01 09:56:43.843048
+Best performance is updated:
+Epoch673:0.004589528311043978
+Current Time:2025-04-01 09:59:32.209184
+Best performance is updated:
+Epoch711:0.004300002008676529
+Current Time:2025-04-01 10:00:37.521539
+Best performance is updated:
+Epoch756:0.0041380710899829865
+Current Time:2025-04-01 10:01:54.135352
+Best performance is updated:
+Epoch773:0.0035574003122746944
+Current Time:2025-04-01 10:02:23.279074
+Best performance is updated:
+Epoch820:0.003130735596641898
+Current Time:2025-04-01 10:03:44.126922
+Best performance is updated:
+Epoch1096:0.003116562496870756
+Current Time:2025-04-01 10:11:35.524636
+Best performance is updated:
+Epoch1183:0.002978875068947673
+Current Time:2025-04-01 10:14:01.825357
+Best performance is updated:
+Epoch1192:0.002820416819304228
+Current Time:2025-04-01 10:14:17.117133
+Best performance is updated:
+Epoch1283:0.0025890604592859745
+Current Time:2025-04-01 10:16:51.288858
+Best performance is updated:
+Epoch1289:0.0024324306286871433
+Current Time:2025-04-01 10:17:01.659451
+Best performance is updated:
+Epoch1369:0.002105424413457513
+Current Time:2025-04-01 10:19:16.929806
+Best performance is updated:
+Epoch1630:0.0018067990895360708
+Current Time:2025-04-01 10:26:38.233852
+Best performance is updated:
+Epoch1816:0.001768580754287541
+Current Time:2025-04-01 10:31:55.042444
+Best performance is updated:
+Epoch1955:0.0017188782803714275
+Current Time:2025-04-01 10:35:52.146023
+Best performance is updated:
+Epoch2303:0.0016108357813209295
+Current Time:2025-04-01 10:45:42.625122
+Best performance is updated:
+Epoch2428:0.001538913231343031
+Current Time:2025-04-01 10:49:14.512287
+Best performance is updated:
+Epoch2459:0.00152308726683259
+Current Time:2025-04-01 10:50:07.225385
+Best performance is updated:
+Epoch2608:0.0014465091517195106
+Current Time:2025-04-01 10:54:21.545834
+Best performance is updated:
+Epoch2651:0.0014416170306503773
+Current Time:2025-04-01 10:55:34.639246
+Best performance is updated:
+Epoch2681:0.001405701506882906
+Current Time:2025-04-01 10:56:26.344537
+Best performance is updated:
+Epoch2704:0.0012136033037677407
+Current Time:2025-04-01 10:57:05.730297
+Best performance is updated:
+Epoch3041:0.0010453646536916494
+Current Time:2025-04-01 11:06:35.080502
+Best performance is updated:
+Epoch3552:0.0010311088990420103
+Current Time:2025-04-01 11:21:02.854762
+Best performance is updated:
+Epoch3990:0.0008993213996291161
+Current Time:2025-04-01 11:33:27.871154
+Best performance is updated:
+Epoch4111:0.0008756950264796615
+Current Time:2025-04-01 11:36:53.564559
+Best performance is updated:
+Epoch4327:0.0007232853677123785
+Current Time:2025-04-01 11:43:01.582474
+Best performance is updated:
+Epoch5060:0.0006955533172003925
+Current Time:2025-04-01 12:03:56.589659
+Best performance is updated:
+Epoch5405:0.0006399068515747786
+Current Time:2025-04-01 12:13:47.654104

@@ -1,0 +1,127 @@
+This is the record file for phase 2-1.
+Best performance is updated:
+Epoch0:tensor(2.8659, device='cuda:0', grad_fn=<AddBackward0>)
+Current Time:2025-03-31 21:13:47.844269
+Best performance is updated:
+Epoch1:tensor(0.8773, device='cuda:0', grad_fn=<AddBackward0>)
+Current Time:2025-03-31 21:13:50.002215
+Best performance is updated:
+Epoch2:tensor(0.7311, device='cuda:0', grad_fn=<AddBackward0>)
+Current Time:2025-03-31 21:13:52.208720
+Best performance is updated:
+Epoch3:tensor(0.6952, device='cuda:0', grad_fn=<AddBackward0>)
+Current Time:2025-03-31 21:13:54.473733
+Best performance is updated:
+Epoch6:tensor(0.5578, device='cuda:0', grad_fn=<AddBackward0>)
+Current Time:2025-03-31 21:14:01.006492
+Best performance is updated:
+Epoch7:tensor(0.5230, device='cuda:0', grad_fn=<AddBackward0>)
+Current Time:2025-03-31 21:14:03.209268
+Best performance is updated:
+Epoch8:tensor(0.4911, device='cuda:0', grad_fn=<AddBackward0>)
+Current Time:2025-03-31 21:14:05.415774
+Best performance is updated:
+Epoch11:tensor(0.4689, device='cuda:0', grad_fn=<AddBackward0>)
+Current Time:2025-03-31 21:14:12.010262
+Best performance is updated:
+Epoch12:tensor(0.4686, device='cuda:0', grad_fn=<AddBackward0>)
+Current Time:2025-03-31 21:14:14.197337
+Best performance is updated:
+Epoch13:tensor(0.4353, device='cuda:0', grad_fn=<AddBackward0>)
+Current Time:2025-03-31 21:14:16.305428
+Best performance is updated:
+Epoch15:tensor(0.4221, device='cuda:0', grad_fn=<AddBackward0>)
+Current Time:2025-03-31 21:14:20.695047
+Best performance is updated:
+Epoch16:tensor(0.4001, device='cuda:0', grad_fn=<AddBackward0>)
+Current Time:2025-03-31 21:14:22.904824
+Best performance is updated:
+Epoch17:tensor(0.3901, device='cuda:0', grad_fn=<AddBackward0>)
+Current Time:2025-03-31 21:14:24.869201
+Best performance is updated:
+Epoch18:tensor(0.3683, device='cuda:0', grad_fn=<AddBackward0>)
+Current Time:2025-03-31 21:14:26.901237
+Best performance is updated:
+Epoch26:tensor(0.3658, device='cuda:0', grad_fn=<AddBackward0>)
+Current Time:2025-03-31 21:14:44.015632
+Best performance is updated:
+Epoch27:tensor(0.3430, device='cuda:0', grad_fn=<AddBackward0>)
+Current Time:2025-03-31 21:14:46.177799
+Best performance is updated:
+Epoch28:tensor(0.3356, device='cuda:0', grad_fn=<AddBackward0>)
+Current Time:2025-03-31 21:14:48.287169
+Best performance is updated:
+Epoch29:tensor(0.3240, device='cuda:0', grad_fn=<AddBackward0>)
+Current Time:2025-03-31 21:14:50.488265
+Best performance is updated:
+Epoch30:tensor(0.3217, device='cuda:0', grad_fn=<AddBackward0>)
+Current Time:2025-03-31 21:14:52.687584
+Best performance is updated:
+Epoch32:tensor(0.3115, device='cuda:0', grad_fn=<AddBackward0>)
+Current Time:2025-03-31 21:14:56.807526
+Best performance is updated:
+Epoch33:tensor(0.3042, device='cuda:0', grad_fn=<AddBackward0>)
+Current Time:2025-03-31 21:14:59.011298
+Best performance is updated:
+Epoch39:tensor(0.2949, device='cuda:0', grad_fn=<AddBackward0>)
+Current Time:2025-03-31 21:15:12.387560
+Best performance is updated:
+Epoch40:tensor(0.2933, device='cuda:0', grad_fn=<AddBackward0>)
+Current Time:2025-03-31 21:15:14.505489
+Best performance is updated:
+Epoch42:tensor(0.2849, device='cuda:0', grad_fn=<AddBackward0>)
+Current Time:2025-03-31 21:15:18.953433
+Best performance is updated:
+Epoch43:tensor(0.2797, device='cuda:0', grad_fn=<AddBackward0>)
+Current Time:2025-03-31 21:15:21.231066
+Best performance is updated:
+Epoch46:tensor(0.2610, device='cuda:0', grad_fn=<AddBackward0>)
+Current Time:2025-03-31 21:15:27.694087
+Best performance is updated:
+Epoch58:tensor(0.2571, device='cuda:0', grad_fn=<AddBackward0>)
+Current Time:2025-03-31 21:15:54.013815
+Best performance is updated:
+Epoch59:tensor(0.2543, device='cuda:0', grad_fn=<AddBackward0>)
+Current Time:2025-03-31 21:15:56.296643
+Best performance is updated:
+Epoch78:tensor(0.2516, device='cuda:0', grad_fn=<AddBackward0>)
+Current Time:2025-03-31 21:16:37.598918
+Best performance is updated:
+Epoch97:tensor(0.2467, device='cuda:0', grad_fn=<AddBackward0>)
+Current Time:2025-03-31 21:17:18.892014
+Best performance is updated:
+Epoch116:tensor(0.2420, device='cuda:0', grad_fn=<AddBackward0>)
+Current Time:2025-03-31 21:18:00.504029
+Best performance is updated:
+Epoch158:tensor(0.2408, device='cuda:0', grad_fn=<AddBackward0>)
+Current Time:2025-03-31 21:19:33.186955
+Best performance is updated:
+Epoch164:tensor(0.2343, device='cuda:0', grad_fn=<AddBackward0>)
+Current Time:2025-03-31 21:19:46.428166
+Best performance is updated:
+Epoch185:tensor(0.2252, device='cuda:0', grad_fn=<AddBackward0>)
+Current Time:2025-03-31 21:20:32.393968
+Best performance is updated:
+Epoch229:tensor(0.2248, device='cuda:0', grad_fn=<AddBackward0>)
+Current Time:2025-03-31 21:22:07.918487
+Best performance is updated:
+Epoch231:tensor(0.2240, device='cuda:0', grad_fn=<AddBackward0>)
+Current Time:2025-03-31 21:22:12.225413
+Best performance is updated:
+Epoch712:tensor(0.2119, device='cuda:0', grad_fn=<AddBackward0>)
+Current Time:2025-03-31 21:38:52.214955
+Best performance is updated:
+Epoch740:tensor(0.2115, device='cuda:0', grad_fn=<AddBackward0>)
+Current Time:2025-03-31 21:39:48.125154
+Best performance is updated:
+Epoch753:tensor(0.2087, device='cuda:0', grad_fn=<AddBackward0>)
+Current Time:2025-03-31 21:40:14.097988
+Best performance is updated:
+Epoch847:tensor(0.1788, device='cuda:0', grad_fn=<AddBackward0>)
+Current Time:2025-03-31 21:43:20.704242
+Best performance is updated:
+Epoch1421:tensor(0.1678, device='cuda:0', grad_fn=<AddBackward0>)
+Current Time:2025-03-31 22:02:16.431275
+Best performance is updated:
+Epoch1609:tensor(0.1616, device='cuda:0', grad_fn=<AddBackward0>)
+Current Time:2025-03-31 22:08:23.745100
